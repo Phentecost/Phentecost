@@ -4,8 +4,13 @@ A programmer specializing in video game development, with extensive experience i
 
 I am always eager to enhance my skills and knowledge in order to approach problems from various angles. As a self-taught, enthusiastic, and resilient individual, I enjoy working independently but also appreciate the company of others.
 
+ <h1 align="center">🔭 Tools </h1>
 
-
+- Unity
+- C#
+- HLSL
+- Blender
+- Figma
 
 <!--
 **Phentecost/Phentecost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
