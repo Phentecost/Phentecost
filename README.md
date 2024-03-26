@@ -1,7 +1,4 @@
-<p align="center">
-### 👋 Hello, I’m Pablo Vélez!
-</p>
-
+ <h1 align="center">👋 Hello, I’m Pablo Vélez!</h1>
 
 A programmer specializing in video game development, with extensive experience in using graphics engines and translating ideas into a refined product. Excellent communication skills ensure smooth project development with team members and clients. Possesses extensive knowledge of 3D and 2D environments. Always enthusiastic to tackle new challenges and learn.
 
