@@ -12,12 +12,9 @@ I am always eager to enhance my skills and knowledge in order to approach proble
 - Blender
 - Figma
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="www.linkedin.com/in/pablo-velez-a4a0642a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:samuelpablo111@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+ <h1 align="center">📫 Contact </h1>
 
+[Linkedin](www.linkedin.com/in/pablo-velez-a4a0642a9)
 
 <!--
 **Phentecost/Phentecost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
