@@ -16,6 +16,10 @@ I am always eager to enhance my skills and knowledge in order to approach proble
 
 [Linkedin](https://www.linkedin.com/in/pablo-velez-a4a0642a9)
 
+Cell: 317 828 6878
+
+Gmail: samuelpablo111@gmail.com
+
 <!--
 **Phentecost/Phentecost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
