@@ -14,7 +14,7 @@ I am always eager to enhance my skills and knowledge in order to approach proble
 
  <h1 align="center">📫 Contact </h1>
 
-[Linkedin](www.linkedin.com/in/pablo-velez-a4a0642a9)
+[Linkedin](https://www.linkedin.com/in/pablo-velez-a4a0642a9)
 
 <!--
 **Phentecost/Phentecost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
